@@ -3,3 +3,4 @@ def add(a, b):
 
 if __name__ == "__main__":
     print("Addition result:", add(5, 3))
+# Added input check capability
